@@ -7,6 +7,12 @@ A lightweight, keyboard-friendly CSV editor for power users and data tinkerers.
 
 ---
 
+## 📌 HOW TO USE
+
+Save CSV_EDITOR_PRO.ps1 to local windows system and right click and choose "Run with powershell" DONE!!
+
+---
+
 ## 📌 Overview
 
 CSV EDITOR PRO is a compact CSV editing tool focused on quick cell editing, column-level filtering, and fast keyboard-driven workflows. It works with UTF-8 CSV files and provides features to open, edit, filter, and export CSV data while keeping control of rows and columns.
