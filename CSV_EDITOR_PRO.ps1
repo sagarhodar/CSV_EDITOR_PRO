@@ -648,7 +648,7 @@ $helpButton.BackColor = [System.Drawing.Color]::LightGray
 
 $helpButton.Add_Click({
     $helpText = @"
-CSV MATRIX EDITOR
+CSV EDITOR PRO
 =================
 
 FEATURES:
@@ -679,7 +679,7 @@ TIPS:
 
 =================
 Created by: Sagar Hodar
-Version: 2.0
+Version: 5.0
 =================
 "@
     
